@@ -1,0 +1,8 @@
+{
+	Filter = {
+		Bundles = (
+			"com.yourcompany.DoodleJump",
+			"com.limasky.doodlejumpipad",
+		);
+	};
+}
